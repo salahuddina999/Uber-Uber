@@ -17,7 +17,10 @@ import {
   useColorScheme,
   View,
 } from 'react-native';
+<<<<<<< HEAD
 import Icon from 'react-native-vector-icons/FontAwesome';
+=======
+>>>>>>> 4be3360463be8becc0401ada73f10780445c2ce3
 
 import {
   Colors,
@@ -73,7 +76,10 @@ const App: () => Node = () => {
           }}>
           <Section title="Step One">
             Edit <Text style={styles.highlight}>App.js</Text> to change this
+<<<<<<< HEAD
             <Icon name ={"rocket"} size={30}>
+=======
+>>>>>>> 4be3360463be8becc0401ada73f10780445c2ce3
             screen and then come back to see your edits.
           </Section>
           <Section title="See Your Changes">
